@@ -13,7 +13,7 @@ Here it is in command line format for fast and easy access. Just install and run
 ## Installation
 
 ```sh
-npm i -g idkcli
+npm i -g idkascii
 ```
 
 
