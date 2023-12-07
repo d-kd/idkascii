@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-// const chalk = require('chalk');
+
 import chalk from 'chalk'
 import clipboardy from 'clipboardy'
 
