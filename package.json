@@ -2,7 +2,7 @@
   "type": "module",
   "name": "idkascii",
   "version": "1.0.3",
-  "description": "idk cli",
+  "description": "idk ascii cli generator",
   "main": "app.js",
   "bin": {
     "idk": "bin/app.js"
