@@ -1,4 +1,4 @@
-![alt text](idk.png "I don't know")
+![alt text](.images/idk.png "I don't know")
 
 # ¯\\_(ツ)_/¯ I Don't Know ASCII (IDK) CLI
 ## Easily generate the "I Don't Know" ascii from command line

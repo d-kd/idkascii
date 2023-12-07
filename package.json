@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "idkascii",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "idk cli",
   "main": "app.js",
   "bin": {
